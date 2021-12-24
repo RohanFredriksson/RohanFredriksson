@@ -12,7 +12,7 @@ I’m currently doing a BAdvComp majoring in Computer Science at The University 
  - Javascript 📜
 
 ### Contact 📫
-Twitter: @BigRojuano\
+Twitter: @BigRojuano
 
 <!--
 **RohanFredriksson/RohanFredriksson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
