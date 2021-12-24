@@ -14,6 +14,8 @@ I’m currently doing a BAdvComp majoring in Computer Science at The University 
 ### Contact 📫
 Twitter: @BigRojuano
 
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=RohanFredriksson&theme=radical&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+
 <!--
 **RohanFredriksson/RohanFredriksson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
