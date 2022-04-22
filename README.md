@@ -1,20 +1,6 @@
-# G'day Rohan here!
+# Welcome! 👋
 
-### Welcome! 👋
 Welcome to my code den. I sometimes work on some cool projects. Feel free to look around thanks.
-
-### About me ✨
-I’m currently doing a BAdvComp majoring in Computer Science at The University of Sydney.
-
-### Programming Languages I Like ❤️
- - Java ☕
- - Python 🐍
- - Javascript 📜
-
-### Contact 📫
-Twitter: @BigRojuano
-
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=RohanFredriksson&theme=radical&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
 <!--
 **RohanFredriksson/RohanFredriksson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
